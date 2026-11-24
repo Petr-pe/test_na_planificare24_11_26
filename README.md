@@ -8,10 +8,10 @@
 
 изменение README.md для данной ветки
 
-#первый слайд
+# первый слайд
 <img width="1515" height="875" alt="image" src="https://github.com/user-attachments/assets/c6a74577-4929-4c0c-9a78-65aa5abfef26" />
 
-#общая структура
+# общая структура
 <img width="1182" height="88" alt="image" src="https://github.com/user-attachments/assets/84fbf31f-e3d0-4687-bf31-482603d90a8b" />
 
 ты попутал, бес
